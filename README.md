@@ -10,7 +10,7 @@
 <br><br><br>
 
 
-<p> Estudando sobre linguagem SQL e MySQL, a fim de aplicar conhecimentos estudados, criei banco de dados de emissão de nota fiscal. </p>
+<p> Estudando sobre linguagem SQL e MySQL, a fim de aplicar os conhecimentos estudados, criei banco de dados de emissão de nota fiscal. </p>
 <p> Treinando normalização de dados 1FN, 2FN, 3FN.</p>
 <p> Usando MySQL workbench para criar o DER. </p>
 
