@@ -1,6 +1,6 @@
 # Modelagem_Dados_MySQL
 
-### Utilizando MySQL Workbench para criar um banco de dados fictício.
+### Utilizando MySQL para criar um banco de dados fictício.
 
 
 <div>
@@ -10,12 +10,9 @@
 <br><br><br>
 
 
-***Estudando sobre linguagem SQL e MySQL, a fim de aplicar os conhecimentos estudados, criei banco de dados de emissão de nota fiscal.***
+***Estudando sobre linguagem SQL e usando banco de dados MySQL, a fim de aplicar os conhecimentos estudados, criei banco de dados de emissão de nota fiscal.***
 
 ***Treinando normalização de dados 1FN, 2FN, 3FN.***
 
 ***Usando MySQL workbench para criar o DER.***
 
-
-
-## Volte Sempre ! :smiley: :smiley:
